@@ -95,7 +95,7 @@ a:hover,a.active{
   }
 }
 section{
-  background: url('https://cdn.britannica.com/69/95669-050-3ECCFE19/Salt-Lake-City-Utah.jpg') no-repeat;
+  background-image:url("https://thezachgraham.github.io/hello-world/richmond.jpg");
   background-size: cover;
   height: calc(100vh - 80px);
 }
