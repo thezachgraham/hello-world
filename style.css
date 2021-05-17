@@ -94,8 +94,13 @@ a:hover,a.active{
   left: 0;
   }
 }
-section{
-  background-image:url(richmond.jpg) no-repeat;
-  background-size: cover;
-  height: calc(100vh - 80px);
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
 }
+
+
+
