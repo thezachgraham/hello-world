@@ -95,7 +95,7 @@ a:hover,a.active{
   }
 }
 section{
-  background-image:url("https://github.com/thezachgraham/hello-world/blob/ca0f0994799c4bd691c77bb3059deab317c3836d/richmond.jpg");
+  background-image:url("richmond.jpg");
   background-size: cover;
   height: calc(100vh - 80px);
 }
