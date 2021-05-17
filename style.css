@@ -52,7 +52,7 @@ a.active,a:hover{
   cursor: pointer;
   display: none;
 }
-#check {
+check {
     display: none;
 }
 @media (max-width: 952px){
