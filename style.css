@@ -95,7 +95,7 @@ a:hover,a.active{
   }
 }
 section{
-  background-image:url("https://rightpathaddictioncenters.com/wp-content/uploads/2020/02/Richmond-Virginia-USA-downtown.jpg");
+  background-image:url(richmond.jpg) no-repeat;
   background-size: cover;
   height: calc(100vh - 80px);
 }
