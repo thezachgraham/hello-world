@@ -139,23 +139,23 @@ footer{
 }
 .main-content{
   display: flex;
-  background: #f2f2f2
+  background: #001832
 }
 .main-content .box{
   flex-basis: 50%;
   padding: 10px 20px;
-  background: #f2f2f2
+  background: #001832
 }
 .box h2{
  font-size: 1.125rem;
  font-weight: 600;
  text-transform: uppercase;
-  background: #f2f2f2
+  background: #001832
 }
 .box .content{
  margin: 20px 0 0 0;
  position: relative;
-  background: #f2f2f2
+  background: #001832
 }
 .box .content:before{
    position: absolute;
