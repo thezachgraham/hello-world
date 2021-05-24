@@ -60,3 +60,12 @@ nav form .search-data{
  background: none;
  border: none;
 }
+nav form button {
+  padding: 0 15px;
+  background: #ff3d00;
+  border: none;
+  cursor: pointer;
+  font-size: 17px;
+  color: #fff;
+  border-radius: 2px;
+}
