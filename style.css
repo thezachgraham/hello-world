@@ -193,5 +193,20 @@ nav. cancel-icon{
 }
 .center .content .phone {
    margin: 10px 0;
- 
+}
+
+.right form .msg{
+   margin-top: 10px;
+}
+
+.right form input, .right form textarea{
+   width: 100%;
+   font-size: 1.0625rem;
+   background: #151515;
+   padding-left: 10px;
+   border: 1px solid #222222;
+}
+
+.right form input{
+  height: 35px;
 }
