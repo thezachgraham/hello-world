@@ -59,6 +59,7 @@ nav form .search-data{
  font-weight: 500;
  background: none;
  border: none;
+ font-size: 17px;
 }
 nav form button {
   padding: 0 15px;
