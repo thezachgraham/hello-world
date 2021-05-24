@@ -134,28 +134,28 @@ footer{
    bottom: 0px;
    width: 100%;
    height: 2.5rem;
-   background: #001832;
+   background: #2a2a2a;
    color: #fff;
 }
 .main-content{
   display: flex;
-  background: #001832
+  background: #2a2a2a
 }
 .main-content .box{
   flex-basis: 50%;
   padding: 10px 20px;
-  background: #001832
+  background: #2a2a2a
 }
 .box h2{
  font-size: 1.125rem;
  font-weight: 600;
  text-transform: uppercase;
-  background: #001832
+  background: #2a2a2a
 }
 .box .content{
  margin: 20px 0 0 0;
  position: relative;
-  background: #001832
+  background: #2a2a2a
 }
 .box .content:before{
    position: absolute;
@@ -163,14 +163,14 @@ footer{
    top: -10px;
    height: 2px;
    width: 100%;
-   background:  #001832;
+   background: #2a2a2a;
 }
 .box .content:after {
    position: absolute;
    content: '';
    height: 2px;
    width: 15%;
-   background:  #001832;
+   background:  #2a2a2a;
    top: -10px;
 }
 .left .content p{
@@ -185,7 +185,7 @@ footer{
 .left .content .social a span{
  height: 40px;
  width: 40px;
- background:  #001832;
+ background: #2a2a2a;
  line-height: 40px;
  text-align: center;
  font-size: 18px;
@@ -193,11 +193,11 @@ footer{
  transition: 0.3s;
 }
 .left .content .social a span:hover{
-   background:   #001832;
+   background:   #2a2a2a;
 }
 .center .content .fas{
  font-size: 1.4375rem;
- background:  #001832;
+ background:  #2a2a2a;
  height: 45px;
  width: 45px;
  line-height: 45px;
@@ -220,7 +220,7 @@ footer{
 .right form .text{
  font-size: 1.0625rem;
  margin-bottom: 2px;
- color: #656565;
+ color: #fff;
 }
 .right form .msg{
    margin-top: 10px;
@@ -229,7 +229,7 @@ footer{
 .right form input, .right form textarea{
    width: 100%;
    font-size: 1.0625rem;
-   background:  #001832;
+   background:  #2a2a2a;
    padding-left: 10px;
    border: 1px solid #222222;
 }
@@ -249,7 +249,7 @@ footer{
  width: 100%;
  border: none;
  outline: none;
- background:  #001832;
+ background: #2a2a2a;
  font-size: 1.0625rem;
  font-weight: 500;
  cursor: pointer;
@@ -257,12 +257,12 @@ footer{
 }
 
 .right form .btn button:hover {
- background:  #001832;
+ background:  #2a2a2a;
 }
 .bottom center {
    padding: 5px;
    font-size: 0.9375rem;
-   background: #001832;
+   background: #2a2a2a;
 }
 .bottom center span {
    color: #fff;
