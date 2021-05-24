@@ -260,10 +260,10 @@ footer{
    background: #002e5d;
 }
 .bottom center span {
-   color: #656565;
+   color: #fff;
 }
 .bottom center a{
-   color: #f12020;
+   color: #fff;
    text-decoration: none;
 }
 .bottom center a:hover {
