@@ -10,7 +10,6 @@ body {
   background: #f2f2f2;
 }
 nav {
-  position: absolute;
   background: #000000;
   display: flex;
   flex-wrap: wrap;
@@ -18,7 +17,6 @@ nav {
   justify-content: space-between;
   height: 70px;
   padding: 0 100px;
-  overflow: hidden;
 }
 nav .logo{
   color: #fff;
@@ -132,12 +130,10 @@ nav. cancel-icon{
 }
 
 footer{ 
-   position: absolute;
    bottom: 0px;
    width: 100%;
    background: #111;
    color: #d9d9d9;
-   overflow: auto;
 }
 .main-content{
   display: flex;
