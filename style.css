@@ -158,14 +158,14 @@ footer{
    top: -10px;
    height: 2px;
    width: 100%;
-   background: #1a1a1a;
+   background:  #f2f2f2;
 }
 .box .content:after {
    position: absolute;
    content: '';
    height: 2px;
    width: 15%;
-   background: #f12020;
+   background:  #f2f2f2;
    top: -10px;
 }
 .left .content p{
@@ -180,7 +180,7 @@ footer{
 .left .content .social a span{
  height: 40px;
  width: 40px;
- background: #1a1a1a;
+ background:  #f2f2f2;
  line-height: 40px;
  text-align: center;
  font-size: 18px;
@@ -188,11 +188,11 @@ footer{
  transition: 0.3s;
 }
 .left .content .social a span:hover{
-   background: #f12020;
+   background:  #f2f2f2;
 }
 .center .content .fas{
  font-size: 1.4375rem;
- background: #1a1a1a;
+ background:  #f2f2f2;
  height: 45px;
  width: 45px;
  line-height: 45px;
@@ -202,7 +202,7 @@ footer{
  cursor: pointer;
 }
 .center .content .fas:hover{
-   background: #f12020;
+   background:  #f2f2f2;
 }
 .center .content .text{
    font-size: 1.0625rem;
@@ -224,7 +224,7 @@ footer{
 .right form input, .right form textarea{
    width: 100%;
    font-size: 1.0625rem;
-   background: #151515;
+   background:  #f2f2f2;
    padding-left: 10px;
    border: 1px solid #222222;
 }
@@ -244,7 +244,7 @@ footer{
  width: 100%;
  border: none;
  outline: none;
- background: #f12020;
+ background:  #f2f2f2;
  font-size: 1.0625rem;
  font-weight: 500;
  cursor: pointer;
