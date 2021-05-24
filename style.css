@@ -172,3 +172,26 @@ nav. cancel-icon{
 .left .content .social a span:hover{
    background: #f12020;
 }
+.center .content .fas{
+ font-size: 1.4375rem;
+ background: #1a1a1a;
+ height: 45px;
+ width: 45px;
+ line-height: 45px;
+ text-align: center;
+ border-radius: 50%;
+ transition: 0.3s;
+ cursor: pointer;
+}
+.center .content .fas:hover{
+   background: #f12020;
+}
+.center .content .text{
+   font-size: 1.0625rem;
+   font-weight: 500;
+   padding-left: 10px;
+}
+.center .content .phone {
+   margin: 10px 0;
+ 
+}
