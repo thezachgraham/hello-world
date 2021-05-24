@@ -194,7 +194,11 @@ nav. cancel-icon{
 .center .content .phone {
    margin: 10px 0;
 }
-
+.right form .text{
+ font-size: 1.0625rem;
+ margin-bottom: 2px;
+ color: #656565;
+}
 .right form .msg{
    margin-top: 10px;
 }
@@ -206,7 +210,25 @@ nav. cancel-icon{
    padding-left: 10px;
    border: 1px solid #222222;
 }
-
+.right form input:focus,
+.right form textarea:focus{
+   outline-color: #3498db;
+}
 .right form input{
   height: 35px;
+}
+.right form .btn{
+ margin-top: 10px;
+}
+
+.right form .btn button {
+ height: 40px;
+ width: 100%;
+ border: none;
+ outline: none;
+ background: #f12020;
+ font-size: 1.0625rem;
+ font-weight: 500;
+ cursor: pointer;
+ transition: .3s;
 }
