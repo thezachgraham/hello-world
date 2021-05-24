@@ -130,12 +130,11 @@ nav. cancel-icon{
 }
 
 footer{ 
-   position: absolute;
    bottom: 0px;
    width: 100%;
    height: 2.5rem;
    background: #111;
-   color: #000000;
+   color: #002e5d;
 }
 .main-content{
   display: flex;
