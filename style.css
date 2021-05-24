@@ -188,7 +188,7 @@ footer{
  transition: 0.3s;
 }
 .left .content .social a span:hover{
-   background:  #f2f2f2;
+   background:   #001832;
 }
 .center .content .fas{
  font-size: 1.4375rem;
@@ -252,7 +252,7 @@ footer{
 }
 
 .right form .btn button:hover {
- background: #000;
+ background:  #001832;
 }
 .bottom center {
    padding: 5px;
