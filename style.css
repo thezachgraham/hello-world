@@ -47,7 +47,7 @@ nav form{
   height: 40px;
  border-radius: 2px;
  padding: 2px;
- background: #1e232b;
+ background: #000000;
  min-width: 18%!important;
  border: 1px solid rgba(155,155,155,0.2);
 }
@@ -57,13 +57,13 @@ nav form .search-data{
   padding: 0  0px;
   color: #fff;
  font-weight: 500;
- background: none;
+ background: #000000;
  border: none;
  font-size: 17px;
 }
 nav form button {
   padding: 0 15px;
-  background: #ff3d00;
+  background: #000000;
   border: none;
   cursor: pointer;
   font-size: 17px;
