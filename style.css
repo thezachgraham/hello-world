@@ -158,18 +158,15 @@ nav. cancel-icon{
     Multicoloured Hover Variations
 */
 
-#lab_social_icon_footer #social-fb:hover {
-  color: #3B5998;
+#lab_social_icon_footer #social-li:hover {
+  color: #0a66c2;
+}
+
+#lab_social_icon_footer #social-gi:hover {
+  color: #323131;
 }
 
 #lab_social_icon_footer #social-tw:hover {
-  color: #4099FF;
+  color: #50abf1;
 }
 
-#lab_social_icon_footer #social-gp:hover {
-  color: #d34836;
-}
-
-#lab_social_icon_footer #social-em:hover {
-  color: #f39c12;
-}
